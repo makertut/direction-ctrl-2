@@ -17,3 +17,5 @@ Hardware
 
 5. two buttons
 
+Stepper motor Specifications
+![Maker Tutor](https://4.bp.blogspot.com/-8TxuN4SSJRg/W_6OU1jHkrI/AAAAAAABMao/GpgHHpEROvkuPz6ALuTN0qHyMT0w2-7AgCLcBGAs/s320/kisspng-nema-17-stepper-motor-national-electrical-manufact-5b0e088b0fae83.0961529115276463470643.png)
